@@ -13,7 +13,7 @@ Ring ring!
 
 
 
-local Drawing = loadstring(game:HttpGet("https://raw.githubusercontent.com/linemaster2/storage/main/Drawing.lua"))();
+local Drawing = loadstring(game:HttpGet("https://raw.githubusercontent.com/dario-stuff/starhook/refs/heads/main/drawing/1"))();
 
 local Library = {};
 do
